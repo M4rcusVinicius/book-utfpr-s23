@@ -32,7 +32,7 @@ const Button = styled.div`
   position: fixed;
   display: none;
   top: 0.5rem;
-  right: 1rem;
+  bottom: 1rem;
   z-index: 10;
   @media (max-width: 900px) {
     display: block;
