@@ -64,7 +64,7 @@ function App({ Component, pageProps }) {
       <main>
         <section className="advice">
             <h1 className="advice__title">Este site está em manutenção </h1>
-            <p className="advice__description"><span> Agora é só pelo canvas (Banco de dados gratuito é assim msm kkkk)</span></p>
+            <p className="advice__description"><span> Agora é só pelo canvas :/</span></p>
         </section>
         <section className="city-stuff">
             <ul className="skyscrappers__list">
